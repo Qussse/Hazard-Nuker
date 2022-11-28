@@ -1,3 +1,16 @@
+Features
+Nuke a targetted account
+Easy and fast
+No proxies required
+Unfriend all friends
+delete and leave all servers
+Spam Create New servers
+Get information from a targetted account
+Log into an account
+Enable seizure mode
+Disable Token
+
+
 [1]: Nuke a targetted account
 Spam switch from light to dark mode the whole time nuking Delete/leave every server they are in Will create 75 servers Change language to japanese Change appearance to brightmode Remove all friends Send a message to every friend they have Everything will be logged and you can watch what happens on the cmd
 
